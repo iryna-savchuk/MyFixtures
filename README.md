@@ -21,4 +21,5 @@ Some information on application structure:
 3. Singleton pattern is used to connect to DB. 
 
 FOR TESTS: 
-I created some files in directory named "fixtures" for testing this application. Feel fre to use them. 
+I created some files in directory named "fixtures" for testing this application. Feel free to use them. 
+The database name can be changed in models/DB.php. It is now set to 'fixture_db'. You can use fixture_db.sql to import the test tables I used. 
